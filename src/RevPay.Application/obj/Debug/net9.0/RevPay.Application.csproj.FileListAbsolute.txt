@@ -1,0 +1,15 @@
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Application/bin/Debug/net9.0/RevPay.Application.deps.json
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Application/bin/Debug/net9.0/RevPay.Application.dll
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Application/bin/Debug/net9.0/RevPay.Application.pdb
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Application/bin/Debug/net9.0/RevPay.Domain.dll
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Application/bin/Debug/net9.0/RevPay.Domain.pdb
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Application/obj/Debug/net9.0/RevPay.Application.csproj.AssemblyReference.cache
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Application/obj/Debug/net9.0/RevPay.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Application/obj/Debug/net9.0/RevPay.Application.AssemblyInfoInputs.cache
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Application/obj/Debug/net9.0/RevPay.Application.AssemblyInfo.cs
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Application/obj/Debug/net9.0/RevPay.Application.csproj.CoreCompileInputs.cache
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Application/obj/Debug/net9.0/RevPay.A.81664C5B.Up2Date
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Application/obj/Debug/net9.0/RevPay.Application.dll
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Application/obj/Debug/net9.0/refint/RevPay.Application.dll
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Application/obj/Debug/net9.0/RevPay.Application.pdb
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Application/obj/Debug/net9.0/ref/RevPay.Application.dll

@@ -1,0 +1,32 @@
+# docker-compose.yml
+version: '3.9'
+services:
+  api:
+    build: .
+    ports: ["5000:8080"]
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__Default=Host=postgres;Database=revpay;Username=revpay;Password=devpass
+      - ConnectionStrings__Redis=redis:6379
+    depends_on: [postgres, redis]
+
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_DB: revpay
+      POSTGRES_USER: revpay
+      POSTGRES_PASSWORD: devpass
+    volumes: [pgdata:/var/lib/postgresql/data]
+    ports: ["5432:5432"]
+
+  redis:
+    image: redis:7-alpine
+    ports: ["6379:6379"]
+
+  seq:
+    image: datalust/seq:latest
+    environment: { ACCEPT_EULA: Y }
+    ports: ["5341:80"]
+
+volumes:
+  pgdata:

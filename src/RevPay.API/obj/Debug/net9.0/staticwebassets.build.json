@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TcGO0sTQn9dMnQ1eH1sB+miJ4LW6vdyLnHUzxEZw2QI=",
+  "Source": "RevPay.API",
+  "BasePath": "_content/RevPay.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

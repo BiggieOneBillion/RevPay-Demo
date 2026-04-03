@@ -1,0 +1,12 @@
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Domain/bin/Debug/net9.0/RevPay.Domain.deps.json
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Domain/bin/Debug/net9.0/RevPay.Domain.dll
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Domain/bin/Debug/net9.0/RevPay.Domain.pdb
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Domain/obj/Debug/net9.0/RevPay.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Domain/obj/Debug/net9.0/RevPay.Domain.AssemblyInfoInputs.cache
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Domain/obj/Debug/net9.0/RevPay.Domain.AssemblyInfo.cs
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Domain/obj/Debug/net9.0/RevPay.Domain.csproj.CoreCompileInputs.cache
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Domain/obj/Debug/net9.0/RevPay.Domain.dll
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Domain/obj/Debug/net9.0/refint/RevPay.Domain.dll
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Domain/obj/Debug/net9.0/RevPay.Domain.pdb
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Domain/obj/Debug/net9.0/ref/RevPay.Domain.dll
+/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Domain/obj/Debug/net9.0/RevPay.Domain.csproj.AssemblyReference.cache

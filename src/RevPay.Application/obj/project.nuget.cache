@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "GrThi4Btf+k=",
+  "success": true,
+  "projectFilePath": "/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Application/RevPay.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/chukwuchinwendu/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
+    "/Users/chukwuchinwendu/.nuget/packages/bcrypt.net-next/4.1.0/bcrypt.net-next.4.1.0.nupkg.sha512",
+    "/Users/chukwuchinwendu/.nuget/packages/fluentvalidation/11.0.0/fluentvalidation.11.0.0.nupkg.sha512",
+    "/Users/chukwuchinwendu/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.0.0/fluentvalidation.dependencyinjectionextensions.11.0.0.nupkg.sha512",
+    "/Users/chukwuchinwendu/.nuget/packages/mediatr/12.0.0/mediatr.12.0.0.nupkg.sha512",
+    "/Users/chukwuchinwendu/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/chukwuchinwendu/.nuget/packages/microsoft.bcl.asyncinterfaces/7.0.0/microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "/Users/chukwuchinwendu/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/chukwuchinwendu/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/chukwuchinwendu/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/chukwuchinwendu/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/chukwuchinwendu/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AutoMapper' 13.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

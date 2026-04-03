@@ -1,0 +1,6 @@
+@RevPay.API_HostAddress = http://localhost:5057
+
+GET {{RevPay.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

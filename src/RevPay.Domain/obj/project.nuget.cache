@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Whsb8VK2+hg=",
+  "success": true,
+  "projectFilePath": "/Users/chukwuchinwendu/Desktop/Learning /RevPay/src/RevPay.Domain/RevPay.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/chukwuchinwendu/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
